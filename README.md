@@ -6,3 +6,6 @@
 
 
 This article I found from Nature Human Behavior reveals when apps are first used for tracking covid cases in 2021, the uptake rate among users wasn't significantly promoted by video messages. However, the smallest monetary incentives would able to drastically motivate users.
+
+*Mark Lung(ml6754) commented: Great Article! I'm excited to see the QOL changes, as we get more and more data from other sources.*
+
